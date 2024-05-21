@@ -28,4 +28,4 @@ Maya is a versatile personal assistant powered by speech recognition and natural
    - Users can interact with Maya to customize the assistant’s responses and actions.
    - The assistant is designed to handle multiple commands in a single session, providing continuous interaction.
 
-Maya is crafted to enhance productivity and provide entertainment, acting as a comprehensive personal assistant through simple voice commands.
+Maya is a voice-activated assistant capable of performing a range of tasks, primarily focusing on communication via WhatsApp in this implementation. It leverages Python libraries for speech recognition and text-to-speech conversion, providing an interactive and hands-free experience for the user.
